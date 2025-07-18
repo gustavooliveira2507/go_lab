@@ -1,0 +1,25 @@
+mode: set
+go_lab/v1/main.go:11.13,15.2 3 0
+go_lab/v1/main.go:18.31,20.2 1 0
+go_lab/v1/main.go:23.59,35.18 12 0
+go_lab/v1/main.go:35.18,37.3 1 0
+go_lab/v1/main.go:37.8,39.3 1 0
+go_lab/v1/main.go:40.2,45.35 6 0
+go_lab/v1/main.go:48.34,51.16 3 0
+go_lab/v1/main.go:51.16,54.3 2 0
+go_lab/v1/main.go:55.2,56.42 2 0
+go_lab/v1/math/operation.go:5.40,7.2 1 1
+go_lab/v1/math/operation.go:9.45,11.2 1 1
+go_lab/v1/math/operation.go:13.45,15.2 1 1
+go_lab/v1/math/operation.go:17.52,18.12 1 1
+go_lab/v1/math/operation.go:18.12,20.3 1 1
+go_lab/v1/math/operation.go:21.2,21.19 1 1
+go_lab/v1/math/operation.go:24.32,25.12 1 1
+go_lab/v1/math/operation.go:25.12,27.3 1 1
+go_lab/v1/math/operation.go:28.2,28.14 1 1
+go_lab/v1/math/operation.go:31.40,32.11 1 1
+go_lab/v1/math/operation.go:32.11,34.3 1 1
+go_lab/v1/math/operation.go:35.2,35.10 1 1
+go_lab/v1/math/operation.go:38.40,39.11 1 1
+go_lab/v1/math/operation.go:39.11,41.3 1 1
+go_lab/v1/math/operation.go:42.2,42.10 1 1
