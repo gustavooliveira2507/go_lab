@@ -6,11 +6,12 @@ import (
 )
 
 var messageHello string = "Welcome to Go Lab!"
+var urlTest string = "http://google.com"
 
 func main() {
 	println(getMessageHello())
 	learnOperationMethod(5.0, 0.0)
-	learnHttpMethod()
+	learnHttpMethod(urlTest)
 }
 
 // Return welcome message
@@ -44,9 +45,9 @@ func learnOperationMethod(localA float64, localB float64) {
 	println("Result min ", resultMin)
 }
 
-func learnHttpMethod() {
+func learnHttpMethod(url string) {
 	println("Learning HTTP method...")
-	res, err := http.Get("http://google.com")
+	res, err := http.Get(url)
 	if err != nil {
 		println("Error: ", err)
 		return
